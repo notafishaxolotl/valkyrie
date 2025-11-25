@@ -1,2 +1,2 @@
 ReadME
-RTFM docs.vulkan.org/spec/latest/index.html
+RTFM https://docs.vulkan.org/spec/latest/index.html
